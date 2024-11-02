@@ -1,0 +1,27 @@
+name: bap-3e
+channels:
+  - conda-forge
+dependencies:
+    - arviz
+    - bambi
+    - pymc
+    - python
+    - ipython
+    - ipywidgets
+    - ipympl
+    - graphviz
+    - jupyterlab
+    - jupyterlab_vim
+    - notebook
+    - matplotlib
+    - numpy
+    - numba
+    - scipy
+    - pandas
+    - xarray
+    - nutpie
+    - preliz
+    - PyMC-BART
+    - pip
+    - pip:
+      - kulprit
