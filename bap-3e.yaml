@@ -48,7 +48,7 @@ dependencies:
   - cachetools=5.5.0=pyhd8ed1ab_1
   - cairo=1.18.2=h6a3b0d2_1
   - cctools_osx-arm64=1010.6=h908b477_2
-  - certifi=2024.12.14=pyhd8ed1ab_0
+  - certifi=2024.12.14=py312hca03da5_0
   - cffi=1.17.1=py312h0fad829_0
   - charset-normalizer=3.4.1=pyhd8ed1ab_0
   - clang=18.1.8=default_h675cc0c_5
@@ -112,6 +112,7 @@ dependencies:
   - importlib-metadata=8.5.0=pyha770c72_1
   - ipykernel=6.29.5=py312hca03da5_0
   - ipython=8.31.0=pyh707e725_0
+  - ipywidgets=8.1.5=py312hca03da5_0
   - jedi=0.19.2=py312hca03da5_0
   - jinja2=3.1.5=pyhd8ed1ab_0
   - json5=0.9.25=py312hca03da5_0
@@ -126,6 +127,7 @@ dependencies:
   - jupyterlab=4.2.7=pyhd8ed1ab_0
   - jupyterlab_pygments=0.1.2=py_0
   - jupyterlab_server=2.27.3=py312hca03da5_0
+  - jupyterlab_widgets=3.0.13=py312hca03da5_0
   - kiwisolver=1.4.8=py312h2c4a281_0
   - krb5=1.21.3=h237132a_0
   - lcms2=2.16=ha0e7c42_0
@@ -299,6 +301,7 @@ dependencies:
   - webencodings=0.5.1=py312hca03da5_2
   - websocket-client=1.8.0=py312hca03da5_0
   - wheel=0.45.1=pyhd8ed1ab_1
+  - widgetsnbextension=4.0.13=py312hca03da5_0
   - xarray=2025.1.1=pyhd8ed1ab_0
   - xarray-einstats=0.8.0=pyhd8ed1ab_1
   - xorg-libxau=1.0.12=h5505292_0
